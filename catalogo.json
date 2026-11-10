@@ -11,7 +11,8 @@
      "peso": "400 700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Caveat-400_700.woff2"
   },
   {
    "familia": "Patrick Hand",
@@ -23,7 +24,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "PatrickHand-400.woff2"
   },
   {
    "familia": "Indie Flower",
@@ -35,7 +37,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "IndieFlower-400.woff2"
   },
   {
    "familia": "Gochi Hand",
@@ -47,7 +50,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "GochiHand-400.woff2"
   },
   {
    "familia": "Handlee",
@@ -59,7 +63,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Handlee-400.woff2"
   },
   {
    "familia": "Kalam",
@@ -76,7 +81,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Kalam-400.woff2"
   },
   {
    "familia": "Schoolbell",
@@ -88,7 +94,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Schoolbell-400.woff2"
   },
   {
    "familia": "Coming Soon",
@@ -100,7 +107,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "ComingSoon-400.woff2"
   },
   {
    "familia": "Short Stack",
@@ -112,7 +120,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "ShortStack-400.woff2"
   },
   {
    "familia": "Architects Daughter",
@@ -124,7 +133,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "ArchitectsDaughter-400.woff2"
   },
   {
    "familia": "Gloria Hallelujah",
@@ -136,7 +146,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "GloriaHallelujah-400.woff2"
   },
   {
    "familia": "Shadows Into Light",
@@ -148,7 +159,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "ShadowsIntoLight-400.woff2"
   },
   {
    "familia": "Covered By Your Grace",
@@ -160,7 +172,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "CoveredByYourGrace-400.woff2"
   },
   {
    "familia": "Annie Use Your Telescope",
@@ -172,7 +185,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "AnnieUseYourTelescope-400.woff2"
   },
   {
    "familia": "Reenie Beanie",
@@ -184,7 +198,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "ReenieBeanie-400.woff2"
   },
   {
    "familia": "Nothing You Could Do",
@@ -196,7 +211,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "NothingYouCouldDo-400.woff2"
   },
   {
    "familia": "Homemade Apple",
@@ -208,7 +224,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "HomemadeApple-400.woff2"
   },
   {
    "familia": "La Belle Aurore",
@@ -220,7 +237,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "LaBelleAurore-400.woff2"
   },
   {
    "familia": "Nanum Pen Script",
@@ -232,7 +250,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "NanumPenScript-400.woff2"
   },
   {
    "familia": "Mynerve",
@@ -244,7 +263,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Mynerve-400.woff2"
   },
   {
    "familia": "Pangolin",
@@ -256,7 +276,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Pangolin-400.woff2"
   },
   {
    "familia": "Amatic SC",
@@ -273,7 +294,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "AmaticSC-400.woff2"
   },
   {
    "familia": "Caveat Brush",
@@ -285,7 +307,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "CaveatBrush-400.woff2"
   },
   {
    "familia": "Mansalva",
@@ -297,7 +320,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Mansalva-400.woff2"
   },
   {
    "familia": "Permanent Marker",
@@ -309,7 +333,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "PermanentMarker-400.woff2"
   },
   {
    "familia": "Rock Salt",
@@ -321,7 +346,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "RockSalt-400.woff2"
   },
   {
    "familia": "Shantell Sans",
@@ -338,7 +364,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "ShantellSans-400.woff2"
   },
   {
    "familia": "Playpen Sans",
@@ -355,7 +382,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "PlaypenSans-400.woff2"
   },
   {
    "familia": "Comic Neue",
@@ -372,7 +400,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "ComicNeue-400.woff2"
   },
   {
    "familia": "Itim",
@@ -384,7 +413,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Itim-400.woff2"
   },
   {
    "familia": "Mali",
@@ -401,7 +431,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Mali-400.woff2"
   },
   {
    "familia": "Fuzzy Bubbles",
@@ -418,7 +449,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "FuzzyBubbles-400.woff2"
   },
   {
    "familia": "Dancing Script",
@@ -430,7 +462,8 @@
      "peso": "400 700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "DancingScript-400_700.woff2"
   },
   {
    "familia": "Pacifico",
@@ -442,7 +475,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Pacifico-400.woff2"
   },
   {
    "familia": "Satisfy",
@@ -454,7 +488,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Satisfy-400.woff2"
   },
   {
    "familia": "Courgette",
@@ -466,7 +501,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Courgette-400.woff2"
   },
   {
    "familia": "Kaushan Script",
@@ -478,7 +514,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "KaushanScript-400.woff2"
   },
   {
    "familia": "Cookie",
@@ -490,7 +527,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Cookie-400.woff2"
   },
   {
    "familia": "Yellowtail",
@@ -502,7 +540,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Yellowtail-400.woff2"
   },
   {
    "familia": "Lobster",
@@ -514,7 +553,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Lobster-400.woff2"
   },
   {
    "familia": "Great Vibes",
@@ -526,7 +566,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "GreatVibes-400.woff2"
   },
   {
    "familia": "Sacramento",
@@ -538,7 +579,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Sacramento-400.woff2"
   },
   {
    "familia": "Parisienne",
@@ -550,7 +592,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Parisienne-400.woff2"
   },
   {
    "familia": "Allura",
@@ -562,7 +605,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Allura-400.woff2"
   },
   {
    "familia": "Alex Brush",
@@ -574,7 +618,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "AlexBrush-400.woff2"
   },
   {
    "familia": "Fredoka",
@@ -586,7 +631,8 @@
      "peso": "400 700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Fredoka-400_700.woff2"
   },
   {
    "familia": "Comfortaa",
@@ -598,7 +644,8 @@
      "peso": "400 700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Comfortaa-400_700.woff2"
   },
   {
    "familia": "Sniglet",
@@ -610,7 +657,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Sniglet-400.woff2"
   },
   {
    "familia": "Delius",
@@ -622,7 +670,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Delius-400.woff2"
   },
   {
    "familia": "Bubblegum Sans",
@@ -634,7 +683,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "BubblegumSans-400.woff2"
   },
   {
    "familia": "Grandstander",
@@ -651,7 +701,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Grandstander-400.woff2"
   },
   {
    "familia": "Chewy",
@@ -663,7 +714,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Chewy-400.woff2"
   },
   {
    "familia": "Cherry Bomb One",
@@ -675,7 +727,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "CherryBombOne-400.woff2"
   },
   {
    "familia": "Lilita One",
@@ -687,7 +740,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "LilitaOne-400.woff2"
   },
   {
    "familia": "Titan One",
@@ -699,7 +753,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "TitanOne-400.woff2"
   },
   {
    "familia": "Luckiest Guy",
@@ -711,7 +766,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "LuckiestGuy-400.woff2"
   },
   {
    "familia": "Righteous",
@@ -723,7 +779,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Righteous-400.woff2"
   },
   {
    "familia": "Bangers",
@@ -735,7 +792,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Bangers-400.woff2"
   },
   {
    "familia": "Love Ya Like A Sister",
@@ -747,7 +805,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "LoveYaLikeASister-400.woff2"
   },
   {
    "familia": "Henny Penny",
@@ -759,7 +818,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "HennyPenny-400.woff2"
   },
   {
    "familia": "Emilys Candy",
@@ -771,7 +831,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "EmilysCandy-400.woff2"
   },
   {
    "familia": "Mountains of Christmas",
@@ -788,7 +849,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "MountainsofChristmas-400.woff2"
   },
   {
    "familia": "Quicksand",
@@ -800,7 +862,8 @@
      "peso": "400 700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Quicksand-400_700.woff2"
   },
   {
    "familia": "Poppins",
@@ -817,7 +880,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Poppins-400.woff2"
   },
   {
    "familia": "Roboto",
@@ -829,7 +893,8 @@
      "peso": "100 900",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Roboto-var.woff2"
   },
   {
    "familia": "Montserrat",
@@ -846,7 +911,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Montserrat-400.woff2"
   },
   {
    "familia": "Josefin Sans",
@@ -863,7 +929,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "JosefinSans-400.woff2"
   },
   {
    "familia": "Playfair Display",
@@ -880,7 +947,8 @@
      "peso": "400 800",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "PlayfairDisplay-i-400.woff2"
   },
   {
    "familia": "Lora",
@@ -897,7 +965,8 @@
      "peso": "400 700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Lora-i-400.woff2"
   },
   {
    "familia": "Merriweather",
@@ -914,7 +983,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Merriweather-400.woff2"
   },
   {
    "familia": "DM Serif Display",
@@ -926,7 +996,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "DMSerifDisplay-400.woff2"
   },
   {
    "familia": "Abril Fatface",
@@ -938,7 +1009,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "AbrilFatface-400.woff2"
   },
   {
    "familia": "Cinzel",
@@ -955,7 +1027,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "Cinzel-400.woff2"
   },
   {
    "familia": "Courier Prime",
@@ -972,7 +1045,8 @@
      "peso": "700",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "CourierPrime-400.woff2"
   },
   {
    "familia": "Special Elite",
@@ -984,7 +1058,8 @@
      "peso": "400",
      "estilo": "normal"
     }
-   ]
+   ],
+   "muestra": "SpecialElite-400.woff2"
   }
  ]
 }
