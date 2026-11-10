@@ -1,0 +1,990 @@
+{
+ "version": 1,
+ "letras": [
+  {
+   "familia": "Caveat",
+   "nombre": "Caveat",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "Caveat-400_700.woff2",
+     "peso": "400 700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Patrick Hand",
+   "nombre": "Patrick",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "PatrickHand-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Indie Flower",
+   "nombre": "Indie Flower",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "IndieFlower-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Gochi Hand",
+   "nombre": "Gochi",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "GochiHand-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Handlee",
+   "nombre": "Handlee",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "Handlee-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Kalam",
+   "nombre": "Kalam",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "Kalam-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "Kalam-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Schoolbell",
+   "nombre": "Cole",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "Schoolbell-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Coming Soon",
+   "nombre": "Coming Soon",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "ComingSoon-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Short Stack",
+   "nombre": "Short Stack",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "ShortStack-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Architects Daughter",
+   "nombre": "Arquitecta",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "ArchitectsDaughter-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Gloria Hallelujah",
+   "nombre": "Gloria",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "GloriaHallelujah-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Shadows Into Light",
+   "nombre": "Shadows",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "ShadowsIntoLight-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Covered By Your Grace",
+   "nombre": "Grace",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "CoveredByYourGrace-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Annie Use Your Telescope",
+   "nombre": "Annie",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "AnnieUseYourTelescope-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Reenie Beanie",
+   "nombre": "Reenie",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "ReenieBeanie-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Nothing You Could Do",
+   "nombre": "Nothing",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "NothingYouCouldDo-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Homemade Apple",
+   "nombre": "Apple",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "HomemadeApple-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "La Belle Aurore",
+   "nombre": "Aurora",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "LaBelleAurore-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Nanum Pen Script",
+   "nombre": "Boli fino",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "NanumPenScript-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Mynerve",
+   "nombre": "Mynerve",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "Mynerve-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Pangolin",
+   "nombre": "Pangolin",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "Pangolin-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Amatic SC",
+   "nombre": "Amatic",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "AmaticSC-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "AmaticSC-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Caveat Brush",
+   "nombre": "Pincel",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "CaveatBrush-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Mansalva",
+   "nombre": "Mansalva",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "Mansalva-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Permanent Marker",
+   "nombre": "Marker",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "PermanentMarker-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Rock Salt",
+   "nombre": "Rock Salt",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "RockSalt-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Shantell Sans",
+   "nombre": "Shantell",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "ShantellSans-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "ShantellSans-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Playpen Sans",
+   "nombre": "Playpen",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "PlaypenSans-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "PlaypenSans-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Comic Neue",
+   "nombre": "Cómic",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "ComicNeue-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "ComicNeue-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Itim",
+   "nombre": "Itim",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "Itim-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Mali",
+   "nombre": "Mali",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "Mali-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "Mali-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Fuzzy Bubbles",
+   "nombre": "Burbujas",
+   "tipo": "A mano",
+   "caras": [
+    {
+     "archivo": "FuzzyBubbles-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "FuzzyBubbles-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Dancing Script",
+   "nombre": "Dancing",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "DancingScript-400_700.woff2",
+     "peso": "400 700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Pacifico",
+   "nombre": "Pacifico",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "Pacifico-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Satisfy",
+   "nombre": "Satisfy",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "Satisfy-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Courgette",
+   "nombre": "Courgette",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "Courgette-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Kaushan Script",
+   "nombre": "Kaushan",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "KaushanScript-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Cookie",
+   "nombre": "Cookie",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "Cookie-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Yellowtail",
+   "nombre": "Yellowtail",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "Yellowtail-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Lobster",
+   "nombre": "Lobster",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "Lobster-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Great Vibes",
+   "nombre": "Great Vibes",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "GreatVibes-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Sacramento",
+   "nombre": "Sacramento",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "Sacramento-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Parisienne",
+   "nombre": "Parisienne",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "Parisienne-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Allura",
+   "nombre": "Allura",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "Allura-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Alex Brush",
+   "nombre": "Alex Brush",
+   "tipo": "Bonitas",
+   "caras": [
+    {
+     "archivo": "AlexBrush-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Fredoka",
+   "nombre": "Fredoka",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "Fredoka-400_700.woff2",
+     "peso": "400 700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Comfortaa",
+   "nombre": "Comfortaa",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "Comfortaa-400_700.woff2",
+     "peso": "400 700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Sniglet",
+   "nombre": "Sniglet",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "Sniglet-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Delius",
+   "nombre": "Delius",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "Delius-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Bubblegum Sans",
+   "nombre": "Chicle",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "BubblegumSans-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Grandstander",
+   "nombre": "Grandstander",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "Grandstander-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "Grandstander-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Chewy",
+   "nombre": "Chewy",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "Chewy-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Cherry Bomb One",
+   "nombre": "Cereza",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "CherryBombOne-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Lilita One",
+   "nombre": "Lilita",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "LilitaOne-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Titan One",
+   "nombre": "Titan",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "TitanOne-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Luckiest Guy",
+   "nombre": "Lucky",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "LuckiestGuy-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Righteous",
+   "nombre": "Righteous",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "Righteous-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Bangers",
+   "nombre": "Bangers",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "Bangers-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Love Ya Like A Sister",
+   "nombre": "Hermana",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "LoveYaLikeASister-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Henny Penny",
+   "nombre": "Cuento",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "HennyPenny-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Emilys Candy",
+   "nombre": "Caramelo",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "EmilysCandy-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Mountains of Christmas",
+   "nombre": "Navidad",
+   "tipo": "Divertidas",
+   "caras": [
+    {
+     "archivo": "MountainsofChristmas-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "MountainsofChristmas-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Quicksand",
+   "nombre": "Quicksand",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "Quicksand-400_700.woff2",
+     "peso": "400 700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Poppins",
+   "nombre": "Poppins",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "Poppins-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "Poppins-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Roboto",
+   "nombre": "Roboto (WhatsApp)",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "Roboto-var.woff2",
+     "peso": "100 900",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Montserrat",
+   "nombre": "Montserrat",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "Montserrat-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "Montserrat-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Josefin Sans",
+   "nombre": "Josefin",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "JosefinSans-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "JosefinSans-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Playfair Display",
+   "nombre": "Playfair",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "PlayfairDisplay-i-400.woff2",
+     "peso": "400",
+     "estilo": "italic"
+    },
+    {
+     "archivo": "PlayfairDisplay-400_800.woff2",
+     "peso": "400 800",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Lora",
+   "nombre": "Lora",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "Lora-i-400.woff2",
+     "peso": "400",
+     "estilo": "italic"
+    },
+    {
+     "archivo": "Lora-400_700.woff2",
+     "peso": "400 700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Merriweather",
+   "nombre": "Merriweather",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "Merriweather-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "Merriweather-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "DM Serif Display",
+   "nombre": "Serif",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "DMSerifDisplay-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Abril Fatface",
+   "nombre": "Abril",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "AbrilFatface-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Cinzel",
+   "nombre": "Cinzel",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "Cinzel-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "Cinzel-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Courier Prime",
+   "nombre": "Máquina",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "CourierPrime-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    },
+    {
+     "archivo": "CourierPrime-700.woff2",
+     "peso": "700",
+     "estilo": "normal"
+    }
+   ]
+  },
+  {
+   "familia": "Special Elite",
+   "nombre": "Antigua",
+   "tipo": "Clásicas",
+   "caras": [
+    {
+     "archivo": "SpecialElite-400.woff2",
+     "peso": "400",
+     "estilo": "normal"
+    }
+   ]
+  }
+ ]
+}
